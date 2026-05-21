@@ -1,0 +1,14 @@
+# Ignorar archivos generados
+build/
+output/
+*.o
+*.bin
+*.map
+
+# Ignorar submodulos/repositorios embebidos
+basic/
+monitor_6502_TN-9k_16k/
+
+# Ignorar basura de Windows
+nul
+Thumbs.db
